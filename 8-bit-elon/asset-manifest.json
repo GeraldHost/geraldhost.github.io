@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.64fb2155.chunk.css",
-    "main.js": "/static/js/main.23e1e3d1.chunk.js",
-    "main.js.map": "/static/js/main.23e1e3d1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a17659fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a17659fa.js.map",
-    "static/js/2.d7822e69.chunk.js": "/static/js/2.d7822e69.chunk.js",
-    "static/js/2.d7822e69.chunk.js.map": "/static/js/2.d7822e69.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.64fb2155.chunk.css.map": "/static/css/main.64fb2155.chunk.css.map",
-    "static/js/2.d7822e69.chunk.js.LICENSE.txt": "/static/js/2.d7822e69.chunk.js.LICENSE.txt",
-    "static/media/grimes.e1c6311f.png": "/static/media/grimes.e1c6311f.png",
-    "static/media/kanye.64097137.png": "/static/media/kanye.64097137.png",
-    "static/media/not-a-flamethrower.2af7019e.png": "/static/media/not-a-flamethrower.2af7019e.png",
-    "static/media/index.scss": "/static/media/pixelmix.43079f34.ttf",
-    "static/media/weed.60989201.png": "/static/media/weed.60989201.png",
-    "static/media/wiki.77df7a08.png": "/static/media/wiki.77df7a08.png",
-    "static/media/young.229d623d.png": "/static/media/young.229d623d.png"
+    "main.css": "/8-bit-elon/static/css/main.b8a31b48.chunk.css",
+    "main.js": "/8-bit-elon/static/js/main.23e1e3d1.chunk.js",
+    "main.js.map": "/8-bit-elon/static/js/main.23e1e3d1.chunk.js.map",
+    "runtime-main.js": "/8-bit-elon/static/js/runtime-main.fde3413a.js",
+    "runtime-main.js.map": "/8-bit-elon/static/js/runtime-main.fde3413a.js.map",
+    "static/js/2.35c63739.chunk.js": "/8-bit-elon/static/js/2.35c63739.chunk.js",
+    "static/js/2.35c63739.chunk.js.map": "/8-bit-elon/static/js/2.35c63739.chunk.js.map",
+    "index.html": "/8-bit-elon/index.html",
+    "static/css/main.b8a31b48.chunk.css.map": "/8-bit-elon/static/css/main.b8a31b48.chunk.css.map",
+    "static/js/2.35c63739.chunk.js.LICENSE.txt": "/8-bit-elon/static/js/2.35c63739.chunk.js.LICENSE.txt",
+    "static/media/grimes.e1c6311f.png": "/8-bit-elon/static/media/grimes.e1c6311f.png",
+    "static/media/kanye.64097137.png": "/8-bit-elon/static/media/kanye.64097137.png",
+    "static/media/not-a-flamethrower.2af7019e.png": "/8-bit-elon/static/media/not-a-flamethrower.2af7019e.png",
+    "static/media/index.scss": "/8-bit-elon/static/media/pixelmix.43079f34.ttf",
+    "static/media/weed.60989201.png": "/8-bit-elon/static/media/weed.60989201.png",
+    "static/media/wiki.77df7a08.png": "/8-bit-elon/static/media/wiki.77df7a08.png",
+    "static/media/young.229d623d.png": "/8-bit-elon/static/media/young.229d623d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a17659fa.js",
-    "static/js/2.d7822e69.chunk.js",
-    "static/css/main.64fb2155.chunk.css",
+    "static/js/runtime-main.fde3413a.js",
+    "static/js/2.35c63739.chunk.js",
+    "static/css/main.b8a31b48.chunk.css",
     "static/js/main.23e1e3d1.chunk.js"
   ]
 }
