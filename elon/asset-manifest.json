@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/8-bit-elon/static/css/main.b8a31b48.chunk.css",
-    "main.js": "/8-bit-elon/static/js/main.1f128be8.chunk.js",
-    "main.js.map": "/8-bit-elon/static/js/main.1f128be8.chunk.js.map",
-    "runtime-main.js": "/8-bit-elon/static/js/runtime-main.fde3413a.js",
-    "runtime-main.js.map": "/8-bit-elon/static/js/runtime-main.fde3413a.js.map",
-    "static/js/2.35c63739.chunk.js": "/8-bit-elon/static/js/2.35c63739.chunk.js",
-    "static/js/2.35c63739.chunk.js.map": "/8-bit-elon/static/js/2.35c63739.chunk.js.map",
-    "index.html": "/8-bit-elon/index.html",
-    "static/css/main.b8a31b48.chunk.css.map": "/8-bit-elon/static/css/main.b8a31b48.chunk.css.map",
-    "static/js/2.35c63739.chunk.js.LICENSE.txt": "/8-bit-elon/static/js/2.35c63739.chunk.js.LICENSE.txt",
-    "static/media/grimes.e1c6311f.png": "/8-bit-elon/static/media/grimes.e1c6311f.png",
-    "static/media/kanye.64097137.png": "/8-bit-elon/static/media/kanye.64097137.png",
-    "static/media/not-a-flamethrower.2af7019e.png": "/8-bit-elon/static/media/not-a-flamethrower.2af7019e.png",
-    "static/media/index.scss": "/8-bit-elon/static/media/pixelmix.43079f34.ttf",
-    "static/media/weed.60989201.png": "/8-bit-elon/static/media/weed.60989201.png",
-    "static/media/wiki.77df7a08.png": "/8-bit-elon/static/media/wiki.77df7a08.png",
-    "static/media/young.229d623d.png": "/8-bit-elon/static/media/young.229d623d.png"
+    "main.css": "/elon/static/css/main.4e913b99.chunk.css",
+    "main.js": "/elon/static/js/main.1f128be8.chunk.js",
+    "main.js.map": "/elon/static/js/main.1f128be8.chunk.js.map",
+    "runtime-main.js": "/elon/static/js/runtime-main.6c5117d5.js",
+    "runtime-main.js.map": "/elon/static/js/runtime-main.6c5117d5.js.map",
+    "static/js/2.24104e2c.chunk.js": "/elon/static/js/2.24104e2c.chunk.js",
+    "static/js/2.24104e2c.chunk.js.map": "/elon/static/js/2.24104e2c.chunk.js.map",
+    "index.html": "/elon/index.html",
+    "static/css/main.4e913b99.chunk.css.map": "/elon/static/css/main.4e913b99.chunk.css.map",
+    "static/js/2.24104e2c.chunk.js.LICENSE.txt": "/elon/static/js/2.24104e2c.chunk.js.LICENSE.txt",
+    "static/media/grimes.e1c6311f.png": "/elon/static/media/grimes.e1c6311f.png",
+    "static/media/kanye.64097137.png": "/elon/static/media/kanye.64097137.png",
+    "static/media/not-a-flamethrower.2af7019e.png": "/elon/static/media/not-a-flamethrower.2af7019e.png",
+    "static/media/index.scss": "/elon/static/media/pixelmix.43079f34.ttf",
+    "static/media/weed.60989201.png": "/elon/static/media/weed.60989201.png",
+    "static/media/wiki.77df7a08.png": "/elon/static/media/wiki.77df7a08.png",
+    "static/media/young.229d623d.png": "/elon/static/media/young.229d623d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fde3413a.js",
-    "static/js/2.35c63739.chunk.js",
-    "static/css/main.b8a31b48.chunk.css",
+    "static/js/runtime-main.6c5117d5.js",
+    "static/js/2.24104e2c.chunk.js",
+    "static/css/main.4e913b99.chunk.css",
     "static/js/main.1f128be8.chunk.js"
   ]
 }
