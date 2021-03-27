@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elon/static/css/main.eb717930.chunk.css",
-    "main.js": "/elon/static/js/main.bd690d23.chunk.js",
-    "main.js.map": "/elon/static/js/main.bd690d23.chunk.js.map",
+    "main.js": "/elon/static/js/main.e53562b8.chunk.js",
+    "main.js.map": "/elon/static/js/main.e53562b8.chunk.js.map",
     "runtime-main.js": "/elon/static/js/runtime-main.6c5117d5.js",
     "runtime-main.js.map": "/elon/static/js/runtime-main.6c5117d5.js.map",
     "static/js/2.74dac6b7.chunk.js": "/elon/static/js/2.74dac6b7.chunk.js",
@@ -10,8 +10,11 @@
     "index.html": "/elon/index.html",
     "static/css/main.eb717930.chunk.css.map": "/elon/static/css/main.eb717930.chunk.css.map",
     "static/js/2.74dac6b7.chunk.js.LICENSE.txt": "/elon/static/js/2.74dac6b7.chunk.js.LICENSE.txt",
+    "static/media/corona.ed754d63.png": "/elon/static/media/corona.ed754d63.png",
+    "static/media/gotcha.cbd80094.png": "/elon/static/media/gotcha.cbd80094.png",
     "static/media/grimes.e1c6311f.png": "/elon/static/media/grimes.e1c6311f.png",
     "static/media/kanye.64097137.png": "/elon/static/media/kanye.64097137.png",
+    "static/media/lion.171fab2f.png": "/elon/static/media/lion.171fab2f.png",
     "static/media/not-a-flamethrower.2af7019e.png": "/elon/static/media/not-a-flamethrower.2af7019e.png",
     "static/media/index.scss": "/elon/static/media/pixelmix.43079f34.ttf",
     "static/media/weed.60989201.png": "/elon/static/media/weed.60989201.png",
@@ -22,6 +25,6 @@
     "static/js/runtime-main.6c5117d5.js",
     "static/js/2.74dac6b7.chunk.js",
     "static/css/main.eb717930.chunk.css",
-    "static/js/main.bd690d23.chunk.js"
+    "static/js/main.e53562b8.chunk.js"
   ]
 }
