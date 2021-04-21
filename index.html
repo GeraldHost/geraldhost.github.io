@@ -1,92 +1,99 @@
-<!doctype html>
+<!DOCTYPE html>
 
 <html lang="en">
-<head>
-  <meta charset="utf-8">
+  <head>
+    <meta charset="utf-8" />
 
-  <title>G.Host</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
+    <title>G.Host</title>
+    <meta name="description" content="The HTML5 Herald" />
+    <meta name="author" content="SitePoint" />
 
-  <style>
-  body {
-  	font-family: monospace;
-  }
+    <style>
+      body {
+        font-family: monospace;
+      }
 
-  h1, h2 {
-  	margin: 10px 0 0 0;
-  }
+      h1,
+      h2 {
+        margin: 10px 0 0 0;
+      }
 
-  ul {
-  	padding: 0;
-  	list-style: none;
-  }
+      ul {
+        padding: 0;
+        list-style: none;
+      }
 
-  li {
-  	margin: 20px 0;
-  }
+      li {
+        margin: 20px 0;
+      }
 
-  .container {
-  	max-width: 500px;
-  	margin: 0 auto;
-  }
-  </style>
+      .container {
+        max-width: 500px;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
 
-</head>
+  <body>
+    <div class="container">
+      <h1>Gerald Host</h1>
+      <p>
+        <a href="https://twitter.com/geraldh0st">Twitter</a>
+        <a href="https://github.com/GeraldHost">Github</a>
+      </p>
+      <h2>Stuff I’m working on</h2>
+      <ul class="stuff"></ul>
+    </div>
 
-<body>
-	<div class="container">
-		<h1>Gerald Host</h1>
-		<p>
-			<a href="https://twitter.com/geraldh0st">Twitter</a>
-			<a href="https://github.com/GeraldHost">Github</a>
-		</p>
-		<h2>Stuff I’m working on</h2>
-		<ul class="stuff">
-			
-		</ul>
-	</div>
+    <footer>
+      <script type="text/javascript">
+        var stuff = [
+          {
+            title: "Legend of Crypto",
+            link: "/legendofcrypto",
+            description:
+              "NFT trading game, current only deployed to CheapETH for testing, mainnet coming soon",
+          },
+          {
+            title: "8 Bit Elon",
+            link: "https://github.com/GeraldHost/8-bit-elon",
+            description:
+              "NFT site to sell 8 bit elons, contract deployed to cheapeth",
+          },
+          {
+            title: "React TV navigation",
+            link: "https://geraldhost.github.io/react-tv-navigation/",
+            description:
+              "Tv naviagtion library for react. Built to be declaritive and fast. The DOM is slow so avoid touching it as much as possible.",
+          },
+          {
+            title: "Gogasm",
+            link: "https://github.com/Technical-Difficulty/gogasm",
+            description: "Directory scanner written in GO and orgasmicly fast",
+          },
+          {
+            title: "Py Patcher",
+            link: "https://github.com/GeraldHost/py-patcher",
+            description:
+              "Automating binary patching by fuzzing jump instructions. Tested on crackmes.one",
+          },
+        ];
 
-	<footer>
-		<script type="text/javascript">
-			var stuff = [
-				{ 
-					title: "8 Bit Elon", 
-					link: "https://github.com/GeraldHost/8-bit-elon",
-					description: "NFT site to sell 8 bit elons, contract deployed to cheapeth"
-				},
-				{ 
-					title: "React TV navigation", 
-					link: "https://geraldhost.github.io/react-tv-navigation/",
-					description: "Tv naviagtion library for react. Built to be declaritive and fast. The DOM is slow so avoid touching it as much as possible."
-				},
-				{ 
-					title: "Gogasm", 
-					link: "https://github.com/Technical-Difficulty/gogasm",
-					description: "Directory scanner written in GO and orgasmicly fast"
-				},
-				{ 
-					title: "Py Patcher", 
-					link: "https://github.com/GeraldHost/py-patcher",
-					description: "Automating binary patching by fuzzing jump instructions. Tested on crackmes.one"
-				}
-			];
+        var $stuff = document.querySelector(".stuff");
 
-			var $stuff = document.querySelector(".stuff");
-
-			for (var i = 0; i < stuff.length; i++) {
-				var item = stuff[i];
-				var $li = document.createElement("li");
-				$li.innerHTML = "<a href=" 
-					+ item.link 
-					+ "><strong>" 
-					+ item.title 
-					+ "</strong></a><br/>" 
-					+ item.description;
-				$stuff.append($li);
-			}
-		</script>
-	</footer>
-  
-</body>
+        for (var i = 0; i < stuff.length; i++) {
+          var item = stuff[i];
+          var $li = document.createElement("li");
+          $li.innerHTML =
+            "<a href=" +
+            item.link +
+            "><strong>" +
+            item.title +
+            "</strong></a><br/>" +
+            item.description;
+          $stuff.append($li);
+        }
+      </script>
+    </footer>
+  </body>
 </html>
